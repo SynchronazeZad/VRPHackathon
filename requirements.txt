@@ -1,0 +1,5 @@
+# Reproducible runtime dependencies
+# Recommended Python: 3.11.x
+ortools==9.10.4067
+matplotlib==3.8.4
+streamlit==1.39.0

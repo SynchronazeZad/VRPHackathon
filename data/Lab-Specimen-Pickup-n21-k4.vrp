@@ -1,0 +1,54 @@
+NAME : Lab-Specimen-Pickup-n21-k4
+COMMENT : (Simulated lab specimen pickup from sub-district health centers to a district hospital, No of vans: 4)
+TYPE : CVRP
+DIMENSION : 21
+EDGE_WEIGHT_TYPE : EUC_2D
+CAPACITY : 40
+NODE_COORD_SECTION
+1 50 50
+2 56 63
+3 61 76
+4 66 88
+5 72 70
+6 78 58
+7 70 46
+8 82 40
+9 64 34
+10 58 22
+11 46 14
+12 40 28
+13 30 36
+14 22 48
+15 18 62
+16 28 70
+17 38 80
+18 46 90
+19 34 56
+20 44 40
+21 88 74
+DEMAND_SECTION
+1 0
+2 6
+3 7
+4 10
+5 7
+6 8
+7 5
+8 12
+9 8
+10 9
+11 6
+12 9
+13 4
+14 7
+15 10
+16 5
+17 8
+18 8
+19 3
+20 6
+21 7
+DEPOT_SECTION
+1
+-1
+EOF
